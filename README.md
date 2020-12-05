@@ -4,8 +4,8 @@ My journey through the Kottans Front-end Course
 ## Stage 0. Self-Study
 
 ### General
-0. Git Basics
-1. Linux CLI and Networking
+0. [Git Basics](https://github.com/CetteAnnette/kottans-frontend/blob/main/1_git_basics/git_basics.md)
+1. [Linux CLI and Networking](https://github.com/CetteAnnette/kottans-frontend/blob/main/2_task_linux_cli/task_linux_cli.md)
 2. VCS (hello gitty), GitHub and Collaboration
 
 ### Front-End Basics
